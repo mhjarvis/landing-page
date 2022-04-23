@@ -5,6 +5,8 @@
 .container {
     font-family: 'Roboto', sans-serif;
     color: #f9faf8;
+    max-width: 1200px;
+    margin: auto;
 }
 
 header, footer {
